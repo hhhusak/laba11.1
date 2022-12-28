@@ -1,0 +1,3 @@
+/Users/vitalygusak/CLionProjects/11.1/cmake-build-debug/CMakeFiles/11_1.dir
+/Users/vitalygusak/CLionProjects/11.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitalygusak/CLionProjects/11.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
